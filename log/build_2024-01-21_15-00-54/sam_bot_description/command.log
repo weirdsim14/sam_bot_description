@@ -1,0 +1,4 @@
+Invoking command in '/home/sim/sam_bot_description/build/sam_bot_description': CMAKE_PREFIX_PATH=/opt/ros/humble /home/sim/.local/bin/cmake --build /home/sim/sam_bot_description/build/sam_bot_description -- -j32 -l32
+Invoked command in '/home/sim/sam_bot_description/build/sam_bot_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /home/sim/.local/bin/cmake --build /home/sim/sam_bot_description/build/sam_bot_description -- -j32 -l32
+Invoking command in '/home/sim/sam_bot_description/build/sam_bot_description': CMAKE_PREFIX_PATH=/opt/ros/humble /home/sim/.local/bin/cmake --install /home/sim/sam_bot_description/build/sam_bot_description
+Invoked command in '/home/sim/sam_bot_description/build/sam_bot_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /home/sim/.local/bin/cmake --install /home/sim/sam_bot_description/build/sam_bot_description

@@ -47,6 +47,7 @@ if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT
     "/home/sim/sam_bot_description/src"
     "/home/sim/sam_bot_description/launch"
     "/home/sim/sam_bot_description/rviz"
+    "/home/sim/sam_bot_description/config"
     )
 endif()
 
